@@ -1,11 +1,22 @@
-# React Native Calculator
+# React Native Calculator  
+**Calc by Prashant**
 
-This is a react-native calculator with the feature of light and dark theme. We can toggle between both the themes with just one click.
+A React Native calculator with light and dark theme toggling.
 
 ### Screens
 
-**Light Theme Screenshot**  
-![Light Theme Screenshot](https://github.com/PrashantDesale2004/Reactive-Nativ-Calculator/blob/main/assets/images/Screenshot-1.png?raw=true)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github.com/PrashantDesale2004/Reactive-Nativ-Calculator/blob/main/assets/images/Screenshot-1.png?raw=true" alt="Light Theme" width="45%" />
+  <img src="https://github.com/PrashantDesale2004/Reactive-Nativ-Calculator/blob/main/assets/images/Screenshot.png?raw=true" alt="Dark Theme" width="45%" />
+</div>
 
-**Dark Theme Screenshot**  
-![Dark Theme Screenshot](https://github.com/PrashantDesale2004/Reactive-Nativ-Calculator/blob/main/assets/images/Screenshot.png?raw=true)
+---
+
+### Tech Stack
+
+- **Framework:** React Native  
+- **Programming Language:** JavaScript  
+- **State Management:** React Hooks  
+- **Styling:** CSS-in-JS  
+- **Development Tools:** Expo CLI  
+- **Version Control:** Git and GitHub  
